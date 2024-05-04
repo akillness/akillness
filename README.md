@@ -14,7 +14,7 @@ Development 💻:
 🙈 - Programming:
 
 
-<https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python>
+![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 
 https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c 
 
