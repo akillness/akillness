@@ -13,8 +13,8 @@
 
 ![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![c](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
-![c++](https://img.shields.io/badge/cplus-grey?style=for-the-badge&logo=cplusplus)
-![c#](https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp)
+![c++](https://img.shields.io/badge/c+-grey?style=for-the-badge&logo=cplusplus)
+![c#](https://img.shields.io/badge/c#-grey?style=for-the-badge&logo=csharp)
 
 - [x] Database:
 
