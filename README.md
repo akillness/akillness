@@ -9,14 +9,9 @@
 
 ### 🔨 Languages & Frameworks & Skills
 
-https://img.shields.io/badge/grey?style=for-the-badge&logo=python
-
-
 Development 💻:
 
-
 🙈 - Programming:
-
 
 https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python  https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c  https://img.shields.io/badge/cplus-grey?style=for-the-badge&logo=cplusplus https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp  
 
