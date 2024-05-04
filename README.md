@@ -2,7 +2,7 @@
 
 ---
  
-### Welcome to my github 👋
+### 👋 Welcome to my github 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent)
 
@@ -21,7 +21,7 @@
 ![mysql](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
 
-- [x] DevOps ♾️:
+- [x] DevOps:
 
 ![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 
