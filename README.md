@@ -13,27 +13,48 @@ Development 💻:
 
 🙈 - Programming:
 
-https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python  https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c  https://img.shields.io/badge/cplus-grey?style=for-the-badge&logo=cplusplus https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp  
+https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python 
+
+https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c 
+
+https://img.shields.io/badge/cplus-grey?style=for-the-badge&logo=cplusplus 
+
+https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp  
 
 🙊 - Database:
 
 
-https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb
+https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql 
+
+https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb
 
 DevOps ♾️:
 
 
 https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git
 
+
 Others:
 
 
-https://img.shields.io/badge/ubuntu-grey?style=for-the-badge&logo=ubuntu https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html 
+https://img.shields.io/badge/ubuntu-grey?style=for-the-badge&logo=ubuntu 
+
+https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java 
+
+https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css
+
+https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html 
 
 IDEs and Tools 🛠:
 
 
-https://img.shields.io/badge/visualstudio-grey?style=for-the-badge&logo=visualstudio https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode https://img.shields.io/badge/unity3d-grey?style=for-the-badge&logo=unity 
+https://img.shields.io/badge/visualstudio-grey?style=for-the-badge&logo=visualstudio 
+
+https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode 
+
+https://img.shields.io/badge/unity3d-grey?style=for-the-badge&logo=unity 
+
+
 
 
 <!--
