@@ -9,25 +9,23 @@
 
 ### 🔨 Languages & Frameworks & Skills
 
-Development 💻:
-
-[x] Programming:
+- [x] Programming:
 
 ![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![c](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
 ![c++](https://img.shields.io/badge/cplus-grey?style=for-the-badge&logo=cplusplus)
 ![c#](https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp)
 
-[x] Database:
+- [x] Database:
 
 ![mysql](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
 
-[x] DevOps ♾️:
+- [x] DevOps ♾️:
 
 ![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 
-[x] Others:
+- [x] Others:
 
 ![pytorch](https://img.shields.io/badge/pytorch-grey?style=for-the-badge&logo=pytorch)
 ![tensorflow](https://img.shields.io/badge/tensorflow-grey?style=for-the-badge&logo=tensorflow)
@@ -36,7 +34,7 @@ Development 💻:
 ![css](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css)
 ![html](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html)
 
-[x] IDEs and Tools :
+- [x] IDEs and Tools :
 
 ![visualstudio](https://img.shields.io/badge/visualstudio-grey?style=for-the-badge&logo=visualstudio)
 ![vscode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode)
