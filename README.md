@@ -52,7 +52,11 @@
 ![unity3d](https://img.shields.io/badge/unity3d-grey?style=for-the-badge&logo=unity)
 
 
-- [x] Badge types :  ![reference](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
+- [x] Badge types :
+
+
+![reference](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
+
 <!--
 **akillness/akillness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
