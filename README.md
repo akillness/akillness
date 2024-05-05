@@ -22,7 +22,7 @@
 
 - [x] Programming:
 
-![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![c](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
 ![c++](https://img.shields.io/badge/c+-grey?style=for-the-badge&logo=cplusplus)
 ![c#](https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp)
@@ -41,9 +41,9 @@
 ![pytorch](https://img.shields.io/badge/pytorch-grey?style=for-the-badge&logo=pytorch)
 ![tensorflow](https://img.shields.io/badge/tensorflow-grey?style=for-the-badge&logo=tensorflow)
 ![ubuntu](https://img.shields.io/badge/ubuntu-grey?style=for-the-badge&logo=ubuntu)
-![java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)
-![css](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css)
-![html](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html)
+![java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![css](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - [x] IDEs and Tools :
 
