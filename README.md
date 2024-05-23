@@ -14,8 +14,8 @@
  
 ### 👋 Welcome to my github 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akillness&layout=compact)
+![akillness's GitHub stats](https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent)
 
 ### 🔨 Languages & Frameworks & Skills
 
