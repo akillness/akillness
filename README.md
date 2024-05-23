@@ -5,7 +5,8 @@
 
 
 <p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge"/>
    <img src="https://img.shields.io/github/license/akillness/productive-box"/>
    <img src="https://img.shields.io/github/stars/aillness/productive-box"/>
    <img src="https://img.shields.io/github/forks/akillness/productive-box"/>
@@ -16,7 +17,6 @@
 ### 👋 Welcome to my github 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akillness&layout=compact)
 
 ### 🔨 Languages & Frameworks & Skills
