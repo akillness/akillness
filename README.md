@@ -5,8 +5,8 @@
 
 
 <p align="center">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/language-python-yellow?style"/>
+   <img src="https://img.shields.io/badge/language-cpp-blue?style"/>
    <img src="https://img.shields.io/github/license/akillness/productive-box"/>
    <img src="https://img.shields.io/github/stars/aillness/productive-box"/>
    <img src="https://img.shields.io/github/forks/akillness/productive-box"/>
