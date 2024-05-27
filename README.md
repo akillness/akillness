@@ -1,14 +1,10 @@
 
-
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-yellow?style"/>
    <img src="https://img.shields.io/badge/language-cpp-blue?style"/>
-   <img src="https://img.shields.io/github/license/akillness"/>
-   <img src="https://img.shields.io/github/stars/aillness"/>
-   <img src="https://img.shields.io/github/forks/akillness"/>
-   
-   
-   
+   <img src="https://img.shields.io/github/license/akillness/LLM_Course"/>
+   <img src="https://img.shields.io/github/stars/aillness/LLM_Course"/>
+   <img src="https://img.shields.io/github/forks/akillness/LLM_Course"/>
 </p>
 
 <div align="center">
