@@ -3,13 +3,19 @@
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-yellow?style"/>
    <img src="https://img.shields.io/badge/language-cpp-blue?style"/>
-   <img src="https://img.shields.io/github/license/akillness/productive-box"/>
-   <img src="https://img.shields.io/github/stars/aillness/productive-box"/>
-   <img src="https://img.shields.io/github/forks/akillness/productive-box"/>
+   <img src="https://img.shields.io/github/license/akillness"/>
+   <img src="https://img.shields.io/github/stars/aillness"/>
+   <img src="https://img.shields.io/github/forks/akillness"/>
    
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakillness%2Fhit-counter&count_bg=%23E81233&title_bg=%23555555&icon=happycow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   
    
 </p>
+
+<div align="center">
+
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakillness%2Fhit-counter&count_bg=%23E81233&title_bg=%23555555&icon=happycow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   
+</div>
 
 ---
  
