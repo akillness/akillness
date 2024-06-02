@@ -1,14 +1,4 @@
-
-<!-- Google tag (gtag.js) -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DY896ZK9GS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DY896ZK9GS');
-</script>
+[![Analytics](https://ga-beacon.appspot.com/G-DY896ZK9GS/welcome-page)](https://github.com/akillness/akillness.github.io)
 
 <!--
 <p align="center">
