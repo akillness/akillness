@@ -1,4 +1,4 @@
-[![Analytics](https://ga-beacon.appspot.com/G-DY896ZK9GS/welcome-page)](https://akillness.github.io)
+[![Analytics](https://ga-beacon.appspot.com/G-DY896ZK9GS/welcome-page)](https://github.com/akillness)
 
 <!--
 <p align="center">
