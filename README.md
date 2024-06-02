@@ -1,5 +1,3 @@
-[![Analytics](https://ga-beacon.appspot.com/G-DY896ZK9GS/welcome-page)](https://github.com/akillness)
-
 <!--
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-yellow?style"/>
