@@ -1,4 +1,14 @@
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DY896ZK9GS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DY896ZK9GS');
+</script>
+
 <!--
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-yellow?style"/>
