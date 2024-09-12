@@ -17,12 +17,18 @@
    
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akillness&layout=compact)
+<div align="right">
 
-![akillness's GitHub stats](https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent)
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akillness&layout=compact>
+
+<img src=https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent>
+
+</div>
 
 ### 🔨 Languages & Frameworks & Skills
 
+<div aligh="left">
+   
 - [x] Languages:
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -84,17 +90,4 @@
 ![html](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<!--
-**akillness/akillness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
