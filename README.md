@@ -19,9 +19,9 @@
 
 <div align="right">
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akillness&layout=compact>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akillness&layout=compact">
 
-<img src=https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent>
+<img src="https://github-readme-stats.vercel.app/api?username=akillness&show_icons=true&theme=transparent">
 
 </div>
 
