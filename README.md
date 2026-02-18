@@ -78,3 +78,13 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
+
+---
+
+### ⛏️ GitHub Miner
+
+<a href="https://github.com/akillness/github-graphic">
+  <img src="https://raw.githubusercontent.com/akillness/github-graphic/master/github-miner.svg" alt="GitHub Miner" width="800" />
+</a>
+
+<sub>⛏️ This pixel art miner evolves as I commit code. <a href="https://github.com/tmdgusya/github-graphic">Get your own!</a></sub>
